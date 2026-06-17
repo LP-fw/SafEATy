@@ -66,9 +66,5 @@ Technical terminology and examples are formulated to avoid gender bias and to pr
 
 ____________________________________________________________________________________________________________________________________
 
-#### License
-##### Author: Laura Pala
-Student of Computer Systems Technologies and Data Analysis — University of Bologna - Start2Impact
-##### Citation 
-😁 If you use or reference this project, please cite it as:
-"safEATy — Allergen Management Database System, Laura Pala, University of Bologna, 2025."
+#### Laura Pala
+Student of Computer Systems Technologies and Data Analysis, University of Bologna
