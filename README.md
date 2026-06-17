@@ -66,5 +66,4 @@ Technical terminology and examples are formulated to avoid gender bias and to pr
 
 ____________________________________________________________________________________________________________________________________
 
-#### Laura Pala
-Student of Computer Systems Technologies and Data Analysis, University of Bologna
+#### Laura Pala, 2025, University of Bologna
